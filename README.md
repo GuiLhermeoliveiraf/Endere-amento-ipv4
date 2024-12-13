@@ -1,6 +1,6 @@
 # 🌐 Endereçamento IPv4
 
-O Internet Protocol (IPv4) é um dos principais protocolos da internet, responsável por identificar dispositivos em redes por meio de endereços numéricos. Aqui estão as informações organizadas e enriquecidas com detalhes e emojis para facilitar a leitura. 👇
+O Internet Protocol (IPv4) é um dos principais protocolos da internet, responsável por identificar dispositivos em redes por meio de endereços numéricos. Aqui estão as informações organizadas com detalhes e emojis para facilitar a leitura. 👇
 
 ---
 
